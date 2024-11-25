@@ -6,8 +6,7 @@ Além disso, aqui está a imagem de comprovação de finalização do curso:
 
 
 <div align="center">
-<img src="https://res.cloudinary.com/dzpxdd08y/image/upload/v1732493697/image_720_rnqxxd.png
-" width="100%"></a>
+<img src="https://res.cloudinary.com/dzpxdd08y/image/upload/v1732493697/image_720_rnqxxd.png" width="100%"></a>
 </div>
 
 <br>
